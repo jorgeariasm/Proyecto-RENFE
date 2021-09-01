@@ -34,7 +34,8 @@ El modelo ML aplicado en el análisis es el de Regresión Lineal Múltiple, tien
 
 La métrica para evaluar el rendimiento del modelo ML es la de RMSE. El valor obtenido es: 10.12592, lo que me indica que la predicción de precios varía en 10€ aproximadamente, esto significa que el modelo reduce en 2,5 veces la variabilidad del error promedio al calcular el precio.
 
-2. **Cuadro Interactivo en Flexdashboard** <a href="https://rpubs.com/jeam38/analisis_renfe" target="_blank">Enlace al cuadro</a>
+2. **Cuadro Interactivo en Flexdashboard** 
 
+[Enlace al cuadro]("https://rpubs.com/jeam38/analisis_renfe"){:target="_blank"}
 
 <img width="945" alt="Cuadro_renfe" src="https://user-images.githubusercontent.com/79086731/131727899-95338cc1-4f69-432e-a931-291a2090feb0.png">
