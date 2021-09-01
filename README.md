@@ -23,10 +23,11 @@ El período observado transcurre desde:
 
 El tren con mayores circulaciones y tráfico de viajeros es el AVE con: 5.240.331 circulaciones. La tarifa más elegida en la compra del billete es Promo con: 5.322.563 billetes comprados y la clase más elegida en la compra del billete es Turista con: 5.818.271 usuarios.
 
+![descarga](https://user-images.githubusercontent.com/79086731/131730347-f47a0404-cb74-4a4c-b95d-eb898c3afcff.png) 
+
 El grupo de ciudades inlcuidas en el dataset son 5, BARCELONA, SEVILLA, VALENCIA, PONFERRADA y MADRID esta última como eje principal de las circulaciones.
 
-<img width="415" alt="mapa" src="https://user-images.githubusercontent.com/79086731/131727823-a5c784eb-d70f-4e8e-bc52-fe3652f016cd.png">
-
+<img width="415" alt="mapa" src="https://user-images.githubusercontent.com/79086731/131727823-a5c784eb-d70f-4e8e-bc52-fe3652f016cd.png">  
 
 Un billete cuesta de media: 61.40 € y el billete más caro ha sido de: 342.8 €.
 
