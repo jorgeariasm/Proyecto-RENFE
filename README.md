@@ -37,7 +37,4 @@ La métrica para evaluar el rendimiento del modelo ML es la de RMSE. El valor ob
 
 2. **Cuadro Interactivo en Flexdashboard**  <a href="https://rpubs.com/jeam38/analisis_renfe"> Enlace al cuadro </a>
 
-
-%md<a href="https://rpubs.com/jeam38/analisis_renfe" target="_blank">Enlace</a>
-
 <img width="945" alt="Cuadro_renfe" src="https://user-images.githubusercontent.com/79086731/131727899-95338cc1-4f69-432e-a931-291a2090feb0.png">
